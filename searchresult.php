@@ -1,8 +1,7 @@
-
 <?php
 $host="localhost";
-$username="root";
-$userpass="sa123";
+$username="jithinms123";
+$userpass="car123";
 $dbname="cars";
 
 try{

@@ -114,7 +114,7 @@ include("options.php");
             <div class="clearfix"></div>
    
             <?php
-	$sql = "SELECT * FROM ".$SETTINGS["CARS"]."";
+	$sql = "SELECT * FROM car";
 	$sql_result = mysql_query ($sql, $connection ) or die ('request "Could not execute SQL query" '.$sql);
 
 

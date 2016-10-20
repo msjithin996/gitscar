@@ -28,11 +28,11 @@ Released: 2014-08-26
 ###########################################################
 
 /* Define MySQL connection details and database table name */ 
-$SETTINGS["hostname"]='localhost';
-$SETTINGS["mysql_user"]='root';
-$SETTINGS["mysql_pass"]='sa123';
+$SETTINGS["hostname"]='148.72.232.117';
+$SETTINGS["mysql_user"]='jithinms123';
+$SETTINGS["mysql_pass"]='car123';
 $SETTINGS["mysql_database"]='cars';
-$SETTINGS["CARS"]='car'; // this is the default database name that we used
+$SETTINGS["cars"]='car'; // this is the default database name that we used
 
 /* Connect to MySQL */
 
